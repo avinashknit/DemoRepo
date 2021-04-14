@@ -3,4 +3,4 @@ I want this to go in commit 2. Master
 Changed by Harry.
 This is now changed.
 Again, it is changed.
-this is from master.
+this is from bugfix.
